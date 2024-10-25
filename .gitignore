@@ -1,0 +1,68 @@
+### BACK ###
+
+app_image_back/HELP.md
+app_image_back/target/
+!app_image_back/.mvn/wrapper/maven-wrapper.jar
+!**/app_image_back/src/main/**/target/
+!**/app_image_back/src/test/**/target/
+resources/public/*
+
+### STS ###
+app_image_back/.apt_generated
+app_image_back/.classpath
+app_image_back/.factorypath
+app_image_back/.project
+app_image_back/.settings
+app_image_back/.springBeans
+app_image_back/.sts4-cache
+
+### IntelliJ IDEA ###
+app_image_back/.idea
+app_image_back/*.iws
+app_image_back/*.iml
+app_image_back/*.ipr
+
+### NetBeans ###
+app_image_back/nbproject/private/
+app_image_back/nbbuild/
+app_image_back/dist/
+app_image_back/nbdist/
+app_image_back/.nb-gradle/
+app_image_back/build/
+!**/app_image_back/src/main/**/build/
+!**/app_image_back/src/test/**/build/
+
+### VS Code ###
+app_image_back/.vscode/
+app_image_front/.vscode/
+.vscode/
+
+
+### FRONT ###
+
+# Logs
+app_image_front/logs
+app_image_front/*.log
+app_image_front/npm-debug.log*
+app_image_front/yarn-debug.log*
+app_image_front/yarn-error.log*
+app_image_front/pnpm-debug.log*
+app_image_front/lerna-debug.log*
+
+app_image_front/node_modules
+app_image_front/target/
+node_modules
+app_image_front/dist
+app_image_front/dist-ssr
+app_image_front/*.local
+
+# Editor directories and files
+app_image_front/.vscode/*
+app_image_front/!.vscode/extensions.json
+app_image_front/.idea
+app_image_front/.DS_Store
+app_image_front/*.suo
+app_image_front/*.ntvs*
+app_image_front/*.njsproj
+app_image_front/*.sln
+app_image_front/*.sw?
